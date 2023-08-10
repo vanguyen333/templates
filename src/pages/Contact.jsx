@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <div>
+    <div className="px-10">
       <h1 className="text-3xl items-center">Contact Page!</h1>
       <p>
         <strong>The standard Lorem Ipsum passage, used since the 1500s</strong>
